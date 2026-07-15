@@ -1,2 +1,2 @@
-# A-Comphersive-measure-of-well-being
-HDI
+# HDI_PROJECT
+A-Comphersive-measure-of-well-being
