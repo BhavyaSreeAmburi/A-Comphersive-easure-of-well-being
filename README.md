@@ -1,2 +1,2 @@
-# A-Comphersive-easure-of-well-being
+# A-Comphersive-measure-of-well-being
 HDI
